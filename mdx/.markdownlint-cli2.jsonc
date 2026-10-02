@@ -1,0 +1,4 @@
+{
+  "config": { "default": true, "RS2SBA": true },
+  "customRules": ["./rs2sb_rule_a.cjs"]
+}
