@@ -1,0 +1,4 @@
+{
+  "config": { "default": true, "RS2Scope": true },
+  "customRules": ["./rs2scope_rule.cjs"]
+}
